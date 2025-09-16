@@ -1,0 +1,7 @@
+=== run by eclipse ===
+- import the project into eclipse
+- but do not run with tomcat integration in eclipse
+- right click : Maven : Update Project
+- right click : runs as : maven build... : goals "spring-boot:run"
+- additionally run "clean package" und "clean install" if build failures appear
+- open in browser at address "http://localhost:8085" see application.properties for more details

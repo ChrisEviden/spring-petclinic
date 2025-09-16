@@ -1,8 +1,0 @@
-=== go to cmd console and enter application folder ===
-C:\myprojects\myproject
-
-=== you can find the mvnw.cmd there and run it ===
-mvnw spring-boot:run
-
-=== open browser and enter local address ===
-http://localhost:8080/

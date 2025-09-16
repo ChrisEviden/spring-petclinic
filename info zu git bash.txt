@@ -11,6 +11,6 @@ git remote add origin https://github.com/ChrisEviden/spring-petclinic.git
 git push -u origin main
 
 git add .
-git commit -m "second commit"
+git commit -m "updated information text file"
 git branch -M main
 git push -u origin main
